@@ -96,7 +96,7 @@ TODO.
 
 > /etc/hostname
 > ```
-> *hostname*
+> hostname
 > ```
 
 
