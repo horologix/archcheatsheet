@@ -103,7 +103,15 @@ passwd
 ```
 pacman -Sy refind-efi  
 refind-install
+mkrlconf
 ```
+
+>/boot/refind_linux.conf
+>```
+>"Boot using default options"     "root=PARTUUID=XXXXXXXX rw add_efi_memmap"
+>"Boot using fallback initramfs"  "root=PARTUUID=XXXXXXXX rw add_efi_memmap initrd=/boot/initramfs-linux-fallback.img"
+>"Boot to terminal"               "root=PARTUUID=XXXXXXXX rw add_efi_memmap systemd.unit=multi-user.target"
+>```
 
 
 ### Really old stuff ###
