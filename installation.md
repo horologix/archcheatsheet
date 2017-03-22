@@ -63,14 +63,12 @@ vim /etc/pacman.d/mirrorlist
 
 ```
 pacstrap /mnt base base-devel
-
 ```
 
 ### Generate fstab ###
 
 ```
 genfstab -U /mnt >> /mnt/etc/fstab
-
 ```
 
 ### Chroot ###
