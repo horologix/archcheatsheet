@@ -106,6 +106,13 @@ TODO.
 passwd
 ```
 
+### rEFInd ###
+
+```
+pacman -Sy refind-efi  
+refind-install
+```
+
 
 ### Really old stuff ###
 
