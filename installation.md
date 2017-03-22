@@ -95,7 +95,9 @@ TODO.
 ### Hostname ###
 
 > /etc/hostname
->> *hostname*
+> ```
+> *hostname*
+> ```
 
 
 ### Root Password ###
