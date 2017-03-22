@@ -47,13 +47,11 @@ mkswap /dev/sdxY
 mkfs.ext4 /dev/sdxY
 ```
 
-
 ### Mounting ###
 
 ```
 mount /dev/sdxY /mnt
 ```
-
 
 ### Mirrorlist ###
 
@@ -61,9 +59,7 @@ mount /dev/sdxY /mnt
 vim /etc/pacman.d/mirrorlist
 ```
 
-
 ### Installing base ###
-
 
 ```
 pacstrap /mnt base base-devel
@@ -72,14 +68,12 @@ pacstrap /mnt base base-devel
 
 ### Generate fstab ###
 
-
 ```
 genfstab -U /mnt >> /mnt/etc/fstab
 
 ```
 
 ### Chroot ###
-
 
 ```
 arch-chroot /mnt
