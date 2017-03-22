@@ -2,42 +2,48 @@
 
 ### Keyboard layout ###
 
-> loadkeys (us|dvorak)
+`loadkeys (us|dvorak)`
 
 
 ### Wifi ###
 
-> netctl
-> wifi-menu
+``
+netctl  
+wifi-menu
+``
 
 
 ### Partitioning ###
 
 #### Suggested Partitions (Dual Boot, Single Root) ####
 
-EFI Partition (200-400mb) [ef00 EFI System]
-Mircosoft Reserved (16mb?) [0c01 Microsoft reserved]
-Windows Filesystem [0700 Microsoft basic data]
-Swap Partition (1gb+) [Linux Swap]
-Linux Filesystem [Linux Filesystem]
+EFI Partition (200-400mb) [ef00 EFI System]  
+Mircosoft Reserved (16mb?) [0c01 Microsoft reserved]  
+Windows Filesystem [0700 Microsoft basic data]  
+Swap Partition (1gb+) [Linux Swap]  
+Linux Filesystem [Linux Filesystem]  
 
 
 #### Tools ####
 
-> fdisk
-> gdisk
-> cfdisk
-> cgdisk
-> sfdisk
-> sgdisk
-> parted
+``
+fdisk  
+gdisk  
+cfdisk  
+cgdisk  
+sfdisk  
+sgdisk  
+parted  
+``
 
 
 ### Formatting ###
 
-> mkfs.fat -F32 /dev/sdxY
-> mkswap /dev/sdxY
-> mkfs.ext4 /dev/sdxY
+``
+mkfs.fat -F32 /dev/sdxY  
+mkswap /dev/sdxY  
+mkfs.ext4 /dev/sdxY  
+``
 
 
 ### Mounting ###
