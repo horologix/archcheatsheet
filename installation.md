@@ -3,7 +3,7 @@
 ### Keyboard layout ###
 
 ```
-loadkeys (us|dvorak)
+loadkeys {us,dvorak}
 ```
 
 

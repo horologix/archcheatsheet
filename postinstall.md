@@ -17,3 +17,7 @@ wireless_tools
 wpa_actiond  
 wpa_supplicant  
 dialog
+
+### Todo  ###
+
+nvidia optimus
