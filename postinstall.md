@@ -24,10 +24,10 @@ TODO
 
 ### Configuration  ###
 
-#### .bashrc ####
-#### colordiff ####
 #### Default editor ####
+#### .bashrc ####
 #### .vimrc ####
+#### colordiff ####
 #### SSH  ####
 
 ### Creating users ###
@@ -38,102 +38,100 @@ TODO
 
 TODO
 
-### Software
-
 #### Package manager ####
 
 yaourt
 
 #### Bash tools ####
 
-bc
-rsync
-mlocate
-bash-completion
-pkgstats
-arch-wiki-lite
+bc  
+rsync  
+mlocate  
+bash-completion  
+pkgstats  
+arch-wiki-lite  
 
 #### Compression ####
 
-zip
-unzip
-unrar
-p7zip
-lzop
-cpio
+zip  
+unzip  
+unrar  
+p7zip  
+lzop  
+cpio  
 
 #### ALSA ####
 
-alsa-utils
-alsa-plugins
+alsa-utils  
+alsa-plugins  
 
 #### Pulseaudio ####
 
-pulseaudio
-pulseaudio-alsa
+pulseaudio  
+pulseaudio-alsa  
 
 #### Avahi ####
 
-avahi
-nss-mdns
+avahi  
+nss-mdns  
 
 #### Filesystem tools ####
 
-ntfs-3g
-dosfstools
-exfat-utils
-f2fs-tools
-fuse
-fuse-exfat
-autofs
-mtpfs
+ntfs-3g  
+dosfstools  
+exfat-utils  
+f2fs-tools  
+fuse  
+fuse-exfat  
+autofs  
+mtpfs  
 
 #### SSH ####
 
-openssh
+openssh  
 
 #### NFS ####
 
-nfs-utils
+nfs-utils  
 
 #### zsh ####
 
-zsh
+zsh  
 
 #### Xorg ####
 
-xorg-server
-xorg-server-utils
-xorg-server-xwaylan
-xorg-xinit
-xorg-xkill
-xorg-xinput
-xf86-input-libinput
-mesa
+xorg-server  
+xorg-server-utils  
+xorg-server-xwaylan  
+xorg-xinit  
+xorg-xkill  
+xorg-xinput  
+xf86-input-libinput  
+mesa  
 
 #### Video drivers ####
 
-nvidia
-nvidia-utils
+nvidia  
+nvidia-utils  
 
-xf86-video-intel
-mesa-libgl
-libvdpau-va-gl
+xf86-video-intel  
+mesa-libgl  
+libvdpau-va-gl  
 
-xf86-video-vesa
+xf86-video-vesa  
 
 #### Font config ####
 
-cairo
-fontconfig
-freetype2
+cairo  
+fontconfig  
+freetype2  
 
 #### Utilities ####
 
-readahead
-zramswap
-tlp
+readahead  
+zramswap  
+tlp  
 
 ### Other  ###
 
-nvidia optimus
+nvidia optimus  
