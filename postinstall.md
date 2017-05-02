@@ -10,7 +10,7 @@ alsa-utils
 espeakup  
 brltty  
 
-### Wifi Tools ###
+### Wifi tools ###
 
 iw  
 wireless_tools
@@ -18,6 +18,122 @@ wpa_actiond
 wpa_supplicant  
 dialog
 
-### Todo  ###
+### Locale ###
+
+TODO
+
+### Configuration  ###
+
+#### .bashrc ####
+#### colordiff ####
+#### Default editor ####
+#### .vimrc ####
+#### SSH  ####
+
+### Creating users ###
+
+TODO
+
+### SUDO  ###
+
+TODO
+
+### Software
+
+#### Package manager ####
+
+yaourt
+
+#### Bash tools ####
+
+bc
+rsync
+mlocate
+bash-completion
+pkgstats
+arch-wiki-lite
+
+#### Compression ####
+
+zip
+unzip
+unrar
+p7zip
+lzop
+cpio
+
+#### ALSA ####
+
+alsa-utils
+alsa-plugins
+
+#### Pulseaudio ####
+
+pulseaudio
+pulseaudio-alsa
+
+#### Avahi ####
+
+avahi
+nss-mdns
+
+#### Filesystem tools ####
+
+ntfs-3g
+dosfstools
+exfat-utils
+f2fs-tools
+fuse
+fuse-exfat
+autofs
+mtpfs
+
+#### SSH ####
+
+openssh
+
+#### NFS ####
+
+nfs-utils
+
+#### zsh ####
+
+zsh
+
+#### Xorg ####
+
+xorg-server
+xorg-server-utils
+xorg-server-xwaylan
+xorg-xinit
+xorg-xkill
+xorg-xinput
+xf86-input-libinput
+mesa
+
+#### Video drivers ####
+
+nvidia
+nvidia-utils
+
+xf86-video-intel
+mesa-libgl
+libvdpau-va-gl
+
+xf86-video-vesa
+
+#### Font config ####
+
+cairo
+fontconfig
+freetype2
+
+#### Utilities ####
+
+readahead
+zramswap
+tlp
+
+### Other  ###
 
 nvidia optimus
