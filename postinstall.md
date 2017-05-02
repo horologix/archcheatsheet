@@ -126,6 +126,11 @@ cairo
 fontconfig  
 freetype2  
 
+#### Display manager ####
+
+lightdm  
+lightdm-gtk-greeter
+
 #### Utilities ####
 
 readahead  

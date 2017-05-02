@@ -17,7 +17,7 @@ wifi-menu
 
 ### Partitioning ###
 
-#### Suggested Partitions (Dual Boot, Single Root) ####
+#### Suggested partitions (dual boot, single root) ####
 
 EFI Partition (200-400mb) [ef00 EFI System]  
 Mircosoft Reserved (16mb?) [0c01 Microsoft reserved]  
@@ -92,7 +92,7 @@ TODO.
 > ```
 
 
-### Root Password ###
+### Root password ###
 
 ```
 passwd
